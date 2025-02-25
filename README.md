@@ -1,2 +1,2 @@
-# py-play
-Scratch Pad for random code
+# Python Playground
+Scratchpad for random code
